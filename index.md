@@ -1,10 +1,11 @@
-# My Portfolio Assignment
+# Hello World
 
 This is my home page! My name is Marco Deng and I am a student at [California State University, Fullerton](https://fullerton.edu/) and my major is Computer Science.
 
+## Computer Science Projects
 My Github page is [Happyboili](https://github.com/Happyboili).
 
-## CPSC 120
+### CPSC 120
 
 * Lab 11
 
