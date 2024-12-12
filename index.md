@@ -13,7 +13,7 @@ My Github page is https://github.com/Happyboili.
 
 * Lab 9
 
-    This lab introduced me to the concept of IO and reading and writing files in C++. I was able to learn more about how it works and also how reading and writing files uses vectors to store the data and how to use and sort them depending on the file format and data.
+    This lab introduced me to the concept of IO and reading and writing files in C++. I was able to learn more about how it works and also how reading and writing files uses vectors to store the data and how to use and sort them depending on the file format and data. Overall I see that it looks through data and sorts via the stored thing inside the vectors making it work overall and its cool to see how it functions as well.
 
 * Lab 12
 
